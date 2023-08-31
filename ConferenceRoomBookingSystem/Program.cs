@@ -23,3 +23,7 @@ app.UseAuthorization();
 app.MapRazorPages();
 
 app.Run();
+
+
+
+// https://chat.openai.com/share/85ed8583-240f-4aae-985c-b8cc72d6a165
